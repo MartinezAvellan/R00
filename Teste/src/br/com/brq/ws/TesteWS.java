@@ -13,5 +13,5 @@ public class TesteWS {
 	public int calculaValores(@WebParam(name="valorUm") int valorUm, @WebParam(name="valorDois") int valorDois){
 		return valorUm + valorDois;
 	}
-
+//se vc ver isso funfou
 }
